@@ -1,6 +1,6 @@
 ## Olá, sou o Marcelo Freitas!
 
-- 🔭 Hoje trabalho com Back-End,Java na DASA
+- 🔭 Hoje trabalho com Java na DASA
 - 📚 Em constante aprendizado
 - 📫 Contate-me: mmarcelofreitass11@gmail.com
 
